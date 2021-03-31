@@ -1,0 +1,5 @@
+baseURL = "http://www.briansanders.net/"
+languageCode = "en-us"
+title = "Web Site of Brian Sanders"
+theme = "hugo-theme-air"
+
